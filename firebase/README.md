@@ -2,7 +2,7 @@
 
 A simple contact form built using **React** and **Firebase Realtime Database**. This project allows users to submit their details which are stored securely in Firebase.
 
----
+
 
 ## Features
 
@@ -12,7 +12,7 @@ A simple contact form built using **React** and **Firebase Realtime Database**. 
 - Fully responsive and clean UI.
 - Hosted live using **Firebase Hosting**.
 
----
+
 
 ## Tech Stack
 
@@ -21,13 +21,13 @@ A simple contact form built using **React** and **Firebase Realtime Database**. 
 - **Firebase Hosting**
 - **CSS** for styling
 
----
+
 
 ## Live Demo
 
 [Click here to view the app](https://reactcontactform-921bb.web.app)
 
----
+
 
 ## Project Setup
 
