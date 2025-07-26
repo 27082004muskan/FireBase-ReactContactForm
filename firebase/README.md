@@ -1,12 +1,37 @@
-# React + Vite
+# React Contact Form with Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple contact form built using **React** and **Firebase Realtime Database**. This project allows users to submit their details which are stored securely in Firebase.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Contact form with fields: Name, Email, Phone, Address, and Message.
+- Form validation before submission.
+- Data stored in **Firebase Realtime Database**.
+- Fully responsive and clean UI.
+- Hosted live using **Firebase Hosting**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- **React (Vite)**
+- **Firebase Realtime Database**
+- **Firebase Hosting**
+- **CSS** for styling
+
+---
+
+## Live Demo
+
+[Click here to view the app](https://reactcontactform-921bb.web.app)
+
+---
+
+## Project Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/27082004muskan/FireBase-ReactContactForm.git
+cd FireBase-ReactContactForm/firebase
